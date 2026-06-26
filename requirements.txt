@@ -1,0 +1,13 @@
+streamlit
+supabase
+pandas
+numpy
+scikit-learn
+joblib
+shap
+plotly
+python-dotenv
+requests
+plotly
+pandas
+
